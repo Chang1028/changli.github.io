@@ -44,4 +44,4 @@ order: 3
 </ul>
 
 
-[Full CV](/files/resume.pdf)
+[Full CV](/assets/files/resume.pdf)
